@@ -1,0 +1,5 @@
+.env
+.reegan_ai/
+__pycache__/
+*.faiss
+*.pkl
